@@ -25,8 +25,14 @@ public class M08_ifElseStatement {
             System.out.println("Bugün " + day + "\tHafta içi bir gindesiniz iyi çalışmalar");
         } else if (day.equals("cuma")) {
             System.out.println("Bugün " + day + "\tHafta içi bir gindesiniz iyi çalışmalar");
-        } else {
+        } else if (day.equals("cumartesi")) {
             System.out.println("Bugün " + day + "\tHafta sonu bir gindesiniz iyi tatiller");
+        } else if (day.equals("pazar")) {
+            System.out.println("Bugün " + day + "\tHafta sonu bir gindesiniz iyi çalışmalar");
+        } else {
+            System.out.println("Yanlış Giriş Yaptınız. Gün ismini tam olarak yazınız.");
         }
     }
+
+
 }
