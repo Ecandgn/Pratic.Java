@@ -8,6 +8,10 @@ public class M03_IcrementDeIncrement {
 // bir sonraki dosya numarası bir öncekinin 5 fazlası olsun
         a += 5;
         System.out.println("Dosya numarası: " + a);
+// dosya numarası birer birer artsın
+        a++;
+        System.out.println("Dosya numarası: "+a);
+        System.out.println("Dosya numarası: "+a);
 
     }
 }
