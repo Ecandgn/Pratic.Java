@@ -10,8 +10,15 @@ public class M03_IcrementDeIncrement {
         System.out.println("Dosya numarası: " + a);
 // dosya numarası birer birer artsın
         a++;
+        System.out.println("Dosya numarası: " + a);
+        System.out.println("Dosya numarası: " + a);
+        a--;
+        System.out.println("Dosya numarası: " + a);
+        a -= 11;
+        System.out.println("Dosya numarası: " + a);
+        a+=5;
         System.out.println("Dosya numarası: "+a);
+        a/=2;
         System.out.println("Dosya numarası: "+a);
-
     }
 }
