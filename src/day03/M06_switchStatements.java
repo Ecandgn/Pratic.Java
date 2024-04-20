@@ -2,7 +2,7 @@ package day03;
 
 import java.util.Scanner;
 
-public class M06switchStatements {
+public class M06_switchStatements {
     public static void main(String[] args) {
          /*
         Kullanicidan ay numarasini alip mevsimi yazdirin.
