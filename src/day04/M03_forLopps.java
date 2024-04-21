@@ -1,6 +1,6 @@
 package day04;
 
-public class M03_forLoops {
+public class M03_forLopps {
     public static void main(String[] args) {
         // 1 'den 100 E kadar olan sayılardan 3 ile tam bölünenleri yazdırın
 
